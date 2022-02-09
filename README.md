@@ -1,7 +1,5 @@
-Geçen hafta veri tabanı üzerinde Modelleri projemize çekmiştik. 
-2 Adet Model için Interface ve Dal katmanını tasarlamıştık. Aynı zamanda Automapper yapısında Model-Dto eşlemesi yapmıştık. 
  
-# ÖDEV: 
+# ÖDEV-1: 
  
 #### Veri tabanında çekilen tüm modellerin; 
 - 1-Interface katmanının tasarlanması 
@@ -14,5 +12,3 @@ Geçen hafta veri tabanı üzerinde Modelleri projemize çekmiştik.
 - 3.Mimari içerisinde yapıları kurmayı öğrenme 
 - 4.OOP kurallarının kullanışını pekiştirme 
  
-### SONUÇ: 
-Haftaya aynı projeden devam edeceğimiz için ödev maddelerinin yapılması önem arzetmektedir. Diğer konuları da aynı projeye inşaa edeceğiz.
